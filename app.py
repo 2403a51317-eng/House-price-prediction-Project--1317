@@ -279,7 +279,7 @@
 "base_uri": "https://localhost:8080/",
 "height": 393
 },
-"collapsed": true,
+"collapsed": True,
 "id": "fVZhOgH7fVxc",
 "outputId": "20802c69-34e0-4bf5-ab5a-8b8e2498875b"
 },
